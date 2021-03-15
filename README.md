@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**chinonear555/chinonear555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![luca-bravo-XJXWbfSo2f0-unsplash](https://user-images.githubusercontent.com/79511332/111174567-d127a100-85a7-11eb-996b-8510b653705c.jpg)
